@@ -1,4 +1,4 @@
-# HR Employee Attrition — Exploratory Data Analysis
+# HR Employee Attrition - Exploratory Data Analysis
 
 Who leaves, when, and why? An exploratory analysis of **1,470 employees (237 leavers)** using statistical tests, confidence intervals and risk-factor combinations, plus an interactive **Tableau Public dashboard**.
 
